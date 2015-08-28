@@ -39,13 +39,13 @@ reddit-share: True
 # Career variables
 
 events:
-  - image: "/img/career/writeright.jpg"
+  - image: "/img/career/MINED.jpg"
     date: "August 2015 - Today"
     description: " Joined @ <a href=\"http://http://mined.gatech.edu/members\">MINED Research Group</a> with Dr. Kalidindi at the Georgia Institute of Technology"
-  - image: "/img/career/pwnmail.jpg"
+  - image: "/img/career/GTL.jpg"
     date: "January 2015 - July 2015"
     description: " Started Master's Degree in Georgia Tech Lorraine"
-  - image: "/img/career/uoa.jpg"
+  - image: "/img/career/GeorgiaTechYellowJackets.jpg"
     date: "August 2011 - December 2014"
     description: "Bachelor studies @ <a href=\"http://me.gatech.edu\" target=\"_blank\"> Georgia Institute of Tecnology</a> on Mechanical Engineering"
 
