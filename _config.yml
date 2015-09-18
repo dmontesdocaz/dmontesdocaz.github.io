@@ -15,7 +15,6 @@ disqus-shortname: "dmontesdeocaz"
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
   Career: 'career'
   Contact: 'contact'
 
@@ -25,12 +24,8 @@ background-img: "/img/intro-bg.jpg"
 
 me-img: "/img/me.jpg"
 
-# Blog variables
-paginate: 15
 
-paginate_path: "blog/page:num"
 
-post-preview-words: 128
 
 fb-share: True
 twitter-share: True
