@@ -32,6 +32,8 @@ fb-share: True
 twitter-share: True
 reddit-share: True
 
+# Project Variable
+
 # Career variables
 
 events:
