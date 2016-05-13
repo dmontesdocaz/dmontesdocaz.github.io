@@ -15,6 +15,7 @@ disqus-shortname: "dmozapiain"
 
 pages_list:
   About: 'about'
+  Projects: 'Projects'
   Career: 'career'
   Contact: 'contact'
 
@@ -34,8 +35,11 @@ reddit-share: True
 # Career variables
 
 events:
+  - image: "/img/career/GeorgiaTechYellowJackets.jpg"
+    date: "December 2015"
+    description: " Graduated from  <a href=\"http://me.gatech.edu\" target=\"_blank\"> Georgia Institute of Tecnology</a> with a Master's Degree in Mechnical Engineering"
   - image: "/img/career/MINED.jpg"
-    date: "August 2015 - Today"
+    date: "August 2015"
     description: " Joined @ <a href=\"http://http://mined.gatech.edu/members\">MINED Research Group</a> with Dr. Kalidindi at the Georgia Institute of Technology"
   - image: "/img/career/GTL.jpg"
     date: "January 2015 - July 2015"
